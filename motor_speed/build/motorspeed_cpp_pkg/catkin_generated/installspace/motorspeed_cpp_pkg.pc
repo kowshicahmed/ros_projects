@@ -1,0 +1,8 @@
+prefix=/home/kowshicahmed/Documents/Coding/ros_projects/motor_speed/install
+
+Name: motorspeed_cpp_pkg
+Description: Description of motorspeed_cpp_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

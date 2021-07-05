@@ -1,0 +1,2 @@
+motorspeed_cpp_pkg
+-DCATKIN_DEVEL_PREFIX=/home/kowshicahmed/Documents/Coding/ros_projects/motor_speed/devel -DCMAKE_INSTALL_PREFIX=/home/kowshicahmed/Documents/Coding/ros_projects/motor_speed/install -G Unix Makefiles
